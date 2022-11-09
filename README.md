@@ -1,7 +1,7 @@
 ### Olá! Eu sou o André Oliveira 👋
 
 - 🔭 Hoje trabalho com front-end e back-end.
-- 🌱 Eu estou estudando JavaScrip.
+- 🌱 Eu estou estudando JavaScript.
 <div>
   <a href="https://beacons.ai/rafaballerini">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=anndremelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
