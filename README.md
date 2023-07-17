@@ -3,7 +3,7 @@
 - 🔭 Hoje trabalho com front-end e back-end.
 - 🌱 Eu estou estudando JavaScript.
 <div>
-  <a href="https://beacons.ai/rafaballerini">
+  <!-- <a href="https://beacons.ai/rafaballerini"> -->
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=anndremelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anndremelo&langs_count=16&theme=dracula"/>
 </div>
